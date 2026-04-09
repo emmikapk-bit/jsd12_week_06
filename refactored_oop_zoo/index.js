@@ -5,7 +5,7 @@ const Mammal = require("./Mammal.js");
 
 
 //Execution
-console.log(Zoo)
+console.log()
 const myZoo = new Zoo("The JS Terminal Zoo");
 
 // create instances of class Animal, Mammal, and/or Bird
